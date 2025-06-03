@@ -1,6 +1,6 @@
 ![logo](https://github.com/ROHI155/ROHI155/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">ROHITH B</h1>
-<h3 align="center">Aspiring DevOps Engineer</h3>
+<!-- <h1 align="center">ROHITH B</h1>
+<h3 align="center">Aspiring DevOps Engineer</h3> -->
 <img align="right" alt="Code it" width="380" src="https://media3.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith055&label=Profile%20views&color=0e75b6&style=flat" alt="rohith055" /> </p>
