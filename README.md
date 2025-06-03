@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohith055/Rohith055/blob/main/Gradient%20Modern%20Personal%20LinkedIn%20Banner%20(8).png)
+![logo](https://github.com/ROHI155/ROHI155/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">ROHITH B</h1>
 <h3 align="center">Aspiring DevOps Engineer</h3>
 <img align="right" alt="Code it" width="380" src="https://media3.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif">
